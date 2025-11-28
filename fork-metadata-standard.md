@@ -98,7 +98,7 @@ See `FORK.yaml` for details.
 ### License and Copyright
 
 - License Retention: The original project’s `LICENSE` file must be retained, as required by its license.
-- REUSE Compliance: Source files should include SPDX headers (e.g. SPDX-License-Identifier: Apache-2.0) for license and copyright information.
+- REUSE Compliance: Source files should include SPDX headers ( e.g. SPDX-License-Identifier: Apache-2.0 ) for license and copyright information.
 - Example Header:
 
 ```javascript
